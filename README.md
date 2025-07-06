@@ -20,4 +20,4 @@ The **progress tracking** feature visually represents the learner’s advancemen
 Overall, the design focuses on clarity, simplicity, and functionality, allowing users to navigate easily, watch videos, and see their learning progress at a glance. It lays the foundation for an interactive, scalable, and visually appealing learning platform that can be enhanced further with JavaScript or front-end frameworks.
 
 
-#OUTPUT:
+#OUTPUT:![Image](https://github.com/user-attachments/assets/d03c2e30-1267-4328-ae2f-ec5fee8631d3)
